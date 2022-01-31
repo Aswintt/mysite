@@ -1,0 +1,118 @@
+html 
+{ 
+    scroll-behavior: smooth;
+}
+/*navbar*/
+.navbar
+{ 
+    background-color: #afe6e6; 
+    width: 100%; 
+    position: fixed; 
+    z-index: 1;
+}
+.navbarimg 
+{ 
+    height: 40px;
+     width: 120px; 
+}
+.nav-link 
+{ 
+    font-size: 1.2rem; 
+}
+li:hover a 
+{ 
+    transition: .5s;
+    box-sizing: border-box;
+    width: 100%;
+    border: solid #000000 0.21rem;
+    padding: 0.4rem; 
+    border-top: 0rem;
+    border-left: 0rem;
+    border-right: 0rem; 
+}
+
+/*section1*/
+.carousel-indicators 
+{ 
+    z-index: 0;
+}
+.carousel 
+{ 
+    z-index: 0;
+}
+
+/*section2*/
+h2 
+{
+    text-align: center;
+}
+form 
+{
+    text-align: center;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    border-radius:5px;
+    padding: 10px;
+    margin-bottom: 50px;
+}
+.join-now
+{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.btn
+{
+    background-color: #9dd1d3;
+    border-radius: 5px;
+}
+.container 
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.uploadlabel
+{
+    font-size: small;
+    color: rgb(110, 108, 108);
+}
+
+/* section3*/
+.s3head
+{
+    text-align: center;
+    margin-bottom: none;
+    font-size: 20px;
+    text-decoration: underline;
+}
+.card
+{
+    padding: 20px;
+}
+.Mentor
+{
+      text-align: center;
+      background-color: #d4e2e4;
+      align-items: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+  
